@@ -1,0 +1,31 @@
+C:\Users\Phelp\Desktop\UNIP\QUARTO SEMESTRE\PIM\sourse\Hospedar\Hospedar\bin\Debug\Hospedar.exe.config
+C:\Users\Phelp\Desktop\UNIP\QUARTO SEMESTRE\PIM\sourse\Hospedar\Hospedar\bin\Debug\Hospedar.exe
+C:\Users\Phelp\Desktop\UNIP\QUARTO SEMESTRE\PIM\sourse\Hospedar\Hospedar\bin\Debug\Hospedar.pdb
+C:\Users\Phelp\Desktop\UNIP\QUARTO SEMESTRE\PIM\sourse\Hospedar\Hospedar\obj\Debug\Hospedar.csprojAssemblyReference.cache
+C:\Users\Phelp\Desktop\UNIP\QUARTO SEMESTRE\PIM\sourse\Hospedar\Hospedar\obj\Debug\Hospedar.Hospedar.resources
+C:\Users\Phelp\Desktop\UNIP\QUARTO SEMESTRE\PIM\sourse\Hospedar\Hospedar\obj\Debug\Hospedar.Properties.Resources.resources
+C:\Users\Phelp\Desktop\UNIP\QUARTO SEMESTRE\PIM\sourse\Hospedar\Hospedar\obj\Debug\Hospedar.csproj.GenerateResource.cache
+C:\Users\Phelp\Desktop\UNIP\QUARTO SEMESTRE\PIM\sourse\Hospedar\Hospedar\obj\Debug\Hospedar.csproj.CoreCompileInputs.cache
+C:\Users\Phelp\Desktop\UNIP\QUARTO SEMESTRE\PIM\sourse\Hospedar\Hospedar\obj\Debug\Hospedar.exe
+C:\Users\Phelp\Desktop\UNIP\QUARTO SEMESTRE\PIM\sourse\Hospedar\Hospedar\obj\Debug\Hospedar.pdb
+C:\Users\Phelp\Desktop\UNIP\QUARTO SEMESTRE\PIM\sourse\Hospedar\Hospedar\bin\Debug\Guna.UI2.dll
+C:\Users\Phelp\Desktop\UNIP\QUARTO SEMESTRE\PIM\sourse\Hospedar\Hospedar\obj\Debug\Hospedar.csproj.CopyComplete
+C:\Users\Phelp\Desktop\UNIP\QUARTO SEMESTRE\PIM\sourse\Hospedar\Hospedar\obj\Debug\Hospedar.Views.Dashboard.resources
+C:\Users\Phelp\Desktop\UNIP\QUARTO SEMESTRE\PIM\sourse\Hospedar\Hospedar\obj\Debug\Hospedar.All_User_Control.UC_AddQuarto.resources
+C:\Users\Phelp\Hospedar\Hospedar\bin\Debug\Hospedar.exe.config
+C:\Users\Phelp\Hospedar\Hospedar\bin\Debug\Hospedar.exe
+C:\Users\Phelp\Hospedar\Hospedar\bin\Debug\Hospedar.pdb
+C:\Users\Phelp\Hospedar\Hospedar\obj\Debug\Hospedar.csprojAssemblyReference.cache
+C:\Users\Phelp\Hospedar\Hospedar\obj\Debug\Hospedar.All_User_Control.UC_AddQuarto.resources
+C:\Users\Phelp\Hospedar\Hospedar\obj\Debug\Hospedar.Views.Dashboard.resources
+C:\Users\Phelp\Hospedar\Hospedar\obj\Debug\Hospedar.Hospedar.resources
+C:\Users\Phelp\Hospedar\Hospedar\obj\Debug\Hospedar.Properties.Resources.resources
+C:\Users\Phelp\Hospedar\Hospedar\obj\Debug\Hospedar.csproj.GenerateResource.cache
+C:\Users\Phelp\Hospedar\Hospedar\obj\Debug\Hospedar.csproj.CoreCompileInputs.cache
+C:\Users\Phelp\Hospedar\Hospedar\obj\Debug\Hospedar.csproj.CopyComplete
+C:\Users\Phelp\Hospedar\Hospedar\obj\Debug\Hospedar.exe
+C:\Users\Phelp\Hospedar\Hospedar\obj\Debug\Hospedar.pdb
+C:\Users\Phelp\Hospedar\Hospedar\obj\Debug\Hospedar.All_User_Control.UC_RegistroHospede.resources
+C:\Users\Phelp\Hospedar\Hospedar\obj\Debug\Hospedar.All_User_Control.UC_CheckoutHospede.resources
+C:\Users\Phelp\Hospedar\Hospedar\obj\Debug\Hospedar.All_User_Control.UC_DetalhesHospedes.resources
+C:\Users\Phelp\Hospedar\Hospedar\obj\Debug\Hospedar.All_User_Control.UC_Usuarios.resources
